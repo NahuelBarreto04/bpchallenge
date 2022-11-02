@@ -1,0 +1,28 @@
+
+{
+    "idols":[
+        {
+            "id": 1,
+            "name": "LaLisa",
+            "group": "BlackPink",
+            "img": "lalisa.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "ChaeWon",
+            "group": "NewJeans",
+            "img": "chaewon.jpg"
+        },
+        {
+            "id":3,
+            "name": "Haruto",
+            "group": "Treasure",
+            "img": "haruto.png"
+        },{
+            "id":4,
+            "name": "Hyunsuk",
+            "group": "Treasure",
+            "img": "hyunsuk.png"
+        }
+    ]
+}
