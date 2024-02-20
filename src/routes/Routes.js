@@ -1,7 +1,7 @@
 import { AnimatePresence } from "framer-motion";
 import React from "react";
 import { Route, Routes as RoutesDom } from "react-router-dom";
-import Songs from "../components/Songs/Songs";
+import Songs from "../pages/Songs/Songs";
 import Home from "../pages/home/Home";
 import Idols from "../pages/Idols/Idols";
 import Info from "../pages/Info/Info";
